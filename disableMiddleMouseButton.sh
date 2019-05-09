@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # Disables middle mouse button on linux systems:
 
