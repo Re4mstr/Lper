@@ -1,0 +1,8 @@
+# Resynchronise with the Manjaro repository servers:
+sudo pacman -Syy
+
+# Refresh and update the signature keys:
+sudo pacman-key --refresh-keys
+
+# Reload the signature keys:
+sudo pacman-key --populate archlinux manjaro
