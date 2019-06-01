@@ -1,2 +1,2 @@
 # Lper
-Script collection for solved issues
+The "Linux Helper".
