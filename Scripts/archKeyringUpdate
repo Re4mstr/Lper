@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+# Description:
 # Resynchronise with the Manjaro repository servers:
 sudo pacman -Syy
 
